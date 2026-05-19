@@ -1,0 +1,9 @@
+{
+  "name": "bloom-backend",
+  "version": "1.0.0",
+  "description": "Backend de BLOOM para Mercado Pago Checkout Pro",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
